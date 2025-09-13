@@ -1,1 +1,3 @@
-# IMT-222_AlanCornejo
+# Repositorio para la materia de sistemas embebido I
+
+* Alan Cornejo
